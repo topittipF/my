@@ -19,4 +19,4 @@ def count_identical_characters(apple):
 
 # Example usage
 word = "apple"
-print(f"The word '{word}' has {count_identical_characters(word)} identical characters.")
+print(f"The word '{word}' has {count_identical_characters(word)} identical characters.") 
